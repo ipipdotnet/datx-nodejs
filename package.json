@@ -1,0 +1,27 @@
+{
+  "name": "ipip-datx",
+  "version": "0.1.5",
+  "description": "IPIP.net官方支持的IP数据库datx格式查询代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipipdotnet/datx-nodejs.git"
+  },
+  "keywords": [
+    "ipip",
+    "location",
+    "geolocation",
+    "geo",
+    "datx",
+    "geoip"
+  ],
+  "author": "frk@ipip.net",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ipipdotnet/datx-nodejs/issues"
+  },
+  "homepage": "https://github.com/ipipdotnet/datx-nodejs#readme"
+}
