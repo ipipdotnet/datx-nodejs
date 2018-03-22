@@ -1,6 +1,6 @@
 {
   "name": "ipip-datx",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "IPIP.net官方支持的IP数据库datx格式查询代码",
   "main": "index.js",
   "scripts": {
