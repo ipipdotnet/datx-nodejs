@@ -1,6 +1,6 @@
 # 开发文档
 ## 安装说明
-<pre><code> npm -y install ipip-datx -g</code></pre>
+<pre><code> npm -y install ipip-datx</code></pre>
 ## 示例
 <pre>
 <code>
