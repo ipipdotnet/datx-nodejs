@@ -13,5 +13,11 @@ console.log(city.findSync("123.121.17.72"));
 var district = new datx.District("/path/to/quxian.datx");
 // findSync 此方法只接受IPv4类型的IP地址，请自行检查参数是否符合规定；
 console.log(district.findSync("123.121.17.72")); 
+
+// 从非文件数据源加载最新的 datx 二进制内容
+var buffer = getFromSomewhere();
+var district = new datx.District(buffer);
+// findSync 此方法只接受IPv4类型的IP地址，请自行检查参数是否符合规定；
+console.log(district.findSync("123.121.17.72")); 
 </code>
 </pre>
